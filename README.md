@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren23&layout=compact)]
+[Eren's Stats](https://github-readme-stats.vercel.app/api?username=eren23)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren23)
+
