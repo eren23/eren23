@@ -1,4 +1,4 @@
-###  Hello Everyone 👋
+## Hello Everyone 👋
 
 <!--
 **eren23/eren23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Some Stats
+
 [![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=eren23)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Blog
+
+I'm trying to publish stuff on my blog [here](https://eren23.medium.com/). You can check my posts out if you like :) 
