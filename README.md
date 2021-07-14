@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=eren23)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eren23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=eren23)
+
 ### Blog
 
 I'm trying to publish stuff on my blog [here](https://eren23.medium.com/). You can check my posts out if you like :) 
